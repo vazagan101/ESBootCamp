@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1687714325 source:c:\users\mips8\onedrive\documents\fsm_e_processor\fsm.c
+	<stdint.h>
+	"FSM.h"
+
+1688929357 c:\users\mips8\onedrive\documents\fsm_e_processor\fsm.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1688205206 source:c:\users\mips8\onedrive\documents\fsm_e_processor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"QTimer.h"
+	<windows.h>
+	"FSM.h"
+
+1688205827 c:\users\mips8\onedrive\documents\fsm_e_processor\qtimer.h
+	<stdint.h>
+	<stdbool.h>
+	"FSM.h"
+
+1689422076 source:c:\users\mips8\onedrive\documents\fsm_e_processor\qtimer.c
+	<stdint.h>
+	<stdbool.h>
+	"QTimer.h"
+
+1688596206 source:c:\users\mips8\onedrive\documents\fsm_e_processor\qfifo.c
+
